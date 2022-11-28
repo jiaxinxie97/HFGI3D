@@ -27,7 +27,7 @@ cd HFGI3D
 ### Environment
 
 ```
-conda create -n HFGI3D python=3.7
+conda create -n HFGI3D python=3.9
 conda activate HFGI3D
 conda install pytorch torchvision torchaudio cudatoolkit=11.6 -c pytorch -c conda-forge
 conda install -c fvcore -c iopath -c conda-forge fvcore iopath
@@ -45,7 +45,7 @@ pip install -r requirements.txt
 We put some examples images and their corresponding pose in `./test_imgs`, also we put the configs files of examples in `./example_configs/`, and you can quickly try them.   
 For customized images, it is encouraged to first pre-process (align & crop) and extract pose for them, and then inverse and edit with our model. Code for this part will be released soon.
 
-### Inference
+### Optimization
   
 ```
 cd inversion/scripts
