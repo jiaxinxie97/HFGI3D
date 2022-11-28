@@ -42,7 +42,7 @@ We put some examples images and their corresponding pose in `./test_imgs`, also 
 For customized images, it is encouraged to first pre-process (align & crop) and extract pose for them, and then inverse and edit with our model. Code for this part will be released soon.
 
 ### Pretraind model
-Download the pretrained generator on FFHQ from [EG3D](https://github.com/NVlabs/eg3d). For convenience, we upload it in Google drive(https://drive.google.com/file/d/1rsF-IHBLW7WvDckdbNK9Qm9SwHK02E5l/view?usp=sharing). Download  `ffhq512-128.pkl` and put it in `./inversion/`.
+Download the pretrained generator on FFHQ from [EG3D](https://github.com/NVlabs/eg3d). For convenience, we upload it in [Google drive](https://drive.google.com/file/d/1rsF-IHBLW7WvDckdbNK9Qm9SwHK02E5l/view?usp=sharing). Download  `ffhq512-128.pkl` and put it in `./inversion/`.
 
 ### Optimization
   
@@ -52,7 +52,7 @@ python run_pti.py ../../example_configs/config_00001.py
 ```
 
 ### More Results
-Video results are shown on our project website (https://ken-ouyang.github.io/HFGI3D/index.html).
+Video results are shown on our [project website] (https://ken-ouyang.github.io/HFGI3D/index.html).
 
 ### Acknowlegement   
 We thank the authors of [EG3D](https://github.com/NVlabs/eg3d) and [PTI](https://github.com/danielroich/PTI) for sharing their code.
