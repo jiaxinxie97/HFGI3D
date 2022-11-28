@@ -6,7 +6,7 @@
 
 [paper]() | [project website](https://ken-ouyang.github.io/HFGI3D/index.html)
   
-<img src="teaser/method.png" width="800px"/> 
+<img src="teaser.png" width="800px"/> 
 
 ## Introduction
 We present a high-fidelity 3D generative adversarial net-
@@ -14,7 +14,7 @@ work (GAN) inversion framework that can synthesize photo-
 realistic novel views while preserving specific details of the
 input image.
 
-<img src="pics/method.png" width="800px"/>  
+<img src="method.png" width="800px"/>  
 
 
 ## Set up
