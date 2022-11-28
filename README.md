@@ -52,7 +52,7 @@ python run_pti.py ../../example_configs/config_00001.py
 ```
 
 ### More Results
-Video results are shown on our [project website] (https://ken-ouyang.github.io/HFGI3D/index.html).
+Video results are shown on our [project website](https://ken-ouyang.github.io/HFGI3D/index.html).
 
 ### Acknowlegement   
 We thank the authors of [EG3D](https://github.com/NVlabs/eg3d) and [PTI](https://github.com/danielroich/PTI) for sharing their code.
