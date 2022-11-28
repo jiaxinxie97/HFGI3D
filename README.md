@@ -42,17 +42,15 @@ pip install -r requirements.txt
 ## Quick Start
 
 ### Prepare Images
-We put some examples images and their corresponding pose in `./test_imgs`, also we put the configs files of examples in './example_configs/, and you can quickly try them.   
-For customized images, it is encouraged to first pre-process (align & crop) and extract pose for them, and then inverse and edit with our model.
+We put some examples images and their corresponding pose in `./test_imgs`, also we put the configs files of examples in `./example_configs/`, and you can quickly try them.   
+For customized images, it is encouraged to first pre-process (align & crop) and extract pose for them, and then inverse and edit with our model. Code for this part will be released soon.
 
 ### Inference
   
 ```
-cd inversion
-cd scripts
+cd inversion/scripts
 python run_pti.py ../../example_configs/config_00001.py
 ```
-
 
 ## More Results
 Video results are shown on our project website (https://ken-ouyang.github.io/HFGI3D/index.html).
