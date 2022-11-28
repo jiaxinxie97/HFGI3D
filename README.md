@@ -20,7 +20,7 @@ input image.
 ## Set up
 ### Installation
 ```
-git clone https://github.com/Tengfei-Wang/HFGI.git
+git clone https://github.com/jiaxinxie97/HFGI3D.git
 cd HFGI3D
 ```
 
