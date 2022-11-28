@@ -1,12 +1,12 @@
-# HFGI3D:High-fidelity 3D GAN Inversion by Pseudo-multi-view Optimization
+# High-fidelity 3D GAN Inversion by Pseudo-multi-view Optimization
 
-> High-Fidelity GAN Inversion for Image Attribute Editing   
-> https://tengfei-wang.github.io/HFGI/
+
 
 
 
 [paper]() | [project website](https://ken-ouyang.github.io/HFGI3D/index.html)
   
+<img src="teaser/method.png" width="800px"/> 
 
 ## Introduction
 We present a high-fidelity 3D generative adversarial net-
