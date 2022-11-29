@@ -57,8 +57,7 @@ Video results are shown on our [project website](https://ken-ouyang.github.io/HF
 ### Acknowlegement   
 We thank the authors of [EG3D](https://github.com/NVlabs/eg3d) and [PTI](https://github.com/danielroich/PTI) for sharing their code.
 
-### Citation
-If you find this work useful for your research, please cite:
+
 
 
 
