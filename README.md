@@ -4,7 +4,7 @@
 
 
 
-[paper]() | [project website](https://ken-ouyang.github.io/HFGI3D/index.html)
+[paper](https://arxiv.org/submit/4622938) | [project website](https://ken-ouyang.github.io/HFGI3D/index.html)
   
 <img src="pics/teaser.png" width="800px"/> 
 
