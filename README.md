@@ -17,7 +17,7 @@ input image.
 <img src="pics/method.png" width="800px"/>  
 
 
-## Set up
+## Setup
 ### Installation
 ```
 git clone https://github.com/jiaxinxie97/HFGI3D.git
