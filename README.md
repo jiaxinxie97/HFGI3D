@@ -40,14 +40,16 @@ pip install -r pose_requirements.txt
 
 ### Prepare Images
 We put some examples images and their corresponding pose in `./test_imgs`, also we put the configs files of examples in `./example_configs/`, and you can quickly try them.   
-For customized images, download the pretrained [pose estimation model](https://drive.google.com/file/d/1zawY7jYDJlUGnSAXn1pgIHgIvJpiSmj5/view?usp=sharing) and [BFM files](), put `epoch_20.pth` in `./pose_estimation/checkpoints/pretrained/` and put unzip `BFM.zip` in `./pose_estimation/` 
+
+For customized images, download the pretrained [pose estimation model](https://drive.google.com/file/d/1zawY7jYDJlUGnSAXn1pgIHgIvJpiSmj5/view?usp=sharing) and [BFM files](https://drive.google.com/file/d/1mdqkEUepHZROeOj99pXogAPJPqzBDN2G/view?usp=sharing), put `epoch_20.pth` in `./pose_estimation/checkpoints/pretrained/` and put unzip `BFM.zip` in `./pose_estimation/` 
 
 ```
 cd inversion/pose_estimation
 python extract_pose.py 0 custom_imgs_folder temp_folder output_folder
 
-#example
-python extract_pose.py 0 ../custom_imgs ../align_imgs ../test_imgs
+###example
+#python extract_pose.py 0 ../custom_imgs ../align_imgs ../test_imgs
+
 ```
 Then create config files for customized images in `./example_configs/`
 
