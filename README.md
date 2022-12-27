@@ -3,10 +3,11 @@
 
 
 
+[paper](https://arxiv.org/abs/2211.15662) | [project website](https://ken-ouyang.github.io/HFGI3D/index.html)
+ 
+<img src="pics/input02.png" width="200px"/>        <img src="pics/input_video02.gif" width="200"/>  <img src="pics/input07.png" width="200px"/>        <img src="pics/input_video07.gif" width="200"/> 
 
-[paper]() | [project website](https://ken-ouyang.github.io/HFGI3D/index.html)
-  
-<img src="pics/teaser.png" width="800px"/> 
+<img src="pics/input03.png" width="200px"/>        <img src="pics/input_video03.gif" width="200"/>  <img src="pics/input04.png" width="200px"/>        <img src="pics/input_video04.gif" width="200"/>  
 
 ## Introduction
 We present a high-fidelity 3D generative adversarial net-
