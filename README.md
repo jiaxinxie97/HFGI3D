@@ -77,6 +77,13 @@ We thank the authors of [EG3D](https://github.com/NVlabs/eg3d), [PTI](https://gi
 
 ### Citation
 If you find this work useful for your research, please cite:
-
+```
+@article{xie2022high,
+  title={High-fidelity 3D GAN Inversion by Pseudo-multi-view Optimization},
+  author={Xie, Jiaxin and Ouyang, Hao and Piao, Jingtan and Lei, Chenyang and Chen, Qifeng},
+  journal={arXiv preprint arXiv:2211.15662},
+  year={2022}
+}
+```
 
 
