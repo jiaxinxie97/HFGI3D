@@ -1,4 +1,4 @@
-# High-fidelity 3D GAN Inversion by Pseudo-multi-view Optimization
+# High-fidelity 3D GAN Inversion by Pseudo-multi-view Optimization (CVPR 2023)
 
 
 
